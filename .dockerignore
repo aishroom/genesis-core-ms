@@ -1,0 +1,11 @@
+# Ignorar todos los archivos .log
+*.log
+
+node_modules/
+
+dist/
+
+container/
+
+package-lock.json
+
